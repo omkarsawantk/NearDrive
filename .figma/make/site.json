@@ -1,0 +1,10 @@
+{
+  "description": "Connects tourists with local drivers and provides subscriptions for both, making it easier to find and arrange local transportation directly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
